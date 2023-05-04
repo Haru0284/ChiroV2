@@ -1,0 +1,45 @@
+[
+  {
+    "jid": "6283863636737@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 7
+      },
+      {
+        "nama": "#autoaijapri",
+        "count": 1
+      },
+      {
+        "nama": "#lirik",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "jid": "6285850509391@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 4
+      },
+      {
+        "nama": "#grupwa",
+        "count": 4
+      },
+      {
+        "nama": "#foliokiri",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281236734984@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  }
+]
