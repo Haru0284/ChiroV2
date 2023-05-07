@@ -1,7 +1,7 @@
 [
   {
     "nama": "#menu",
-    "count": 12
+    "count": 14
   },
   {
     "nama": "#autoaijapri",
@@ -18,5 +18,9 @@
   {
     "nama": "#lirik",
     "count": 5
+  },
+  {
+    "nama": "#sticker",
+    "count": 7
   }
 ]

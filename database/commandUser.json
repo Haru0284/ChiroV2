@@ -4,7 +4,7 @@
     "db": [
       {
         "nama": "#menu",
-        "count": 7
+        "count": 9
       },
       {
         "nama": "#autoaijapri",
@@ -13,6 +13,10 @@
       {
         "nama": "#lirik",
         "count": 5
+      },
+      {
+        "nama": "#sticker",
+        "count": 6
       }
     ]
   },
@@ -29,6 +33,10 @@
       },
       {
         "nama": "#foliokiri",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
         "count": 1
       }
     ]
